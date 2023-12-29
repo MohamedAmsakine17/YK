@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.882bbccc.css",
+    "main.js": "/static/js/main.76a28e81.js",
+    "static/media/4.gif": "/static/media/4.db36fcc39cc49cd27388.gif",
+    "static/media/Amanda.png": "/static/media/Amanda.22df9549a9cc11ac43fd.png",
+    "static/media/6.gif": "/static/media/6.fa1ba8124665033b3533.gif",
+    "static/media/Dmc.gif": "/static/media/Dmc.8baf9e73ad1c57956750.gif",
+    "static/media/2.gif": "/static/media/2.9a3b28d2572794276ff3.gif",
+    "static/media/Cachapon_Animation.gif": "/static/media/Cachapon_Animation.b87cf335e9363609c530.gif",
+    "static/media/Gizmo.png": "/static/media/Gizmo.3fd37e065a70728e1a32.png",
+    "static/media/Arhood.png": "/static/media/Arhood.57d516c05a21f2193930.png",
+    "static/media/Slutty.png": "/static/media/Slutty.4f9df8bf79cf875ff703.png",
+    "static/media/YakuzaDaddy.png": "/static/media/YakuzaDaddy.9d27cf1473ac1deb8531.png",
+    "static/media/YakuzaInc.png": "/static/media/YakuzaInc.894242c2ba5b4d5afecb.png",
+    "static/media/Gintoki.png": "/static/media/Gintoki.0df21436f8b0ad574d50.png",
+    "static/media/Tanjiro.png": "/static/media/Tanjiro.fb59de3bd01c801b8c83.png",
+    "static/media/Luffy.png": "/static/media/Luffy.83fd8579d0a3dd460f11.png",
+    "static/media/Logo.png": "/static/media/Logo.49f9720b4c081a8f4069.png",
+    "static/media/Gashapon.png": "/static/media/Gashapon.628db49a29fa135c3883.png",
+    "static/media/LadyRadical.ttf": "/static/media/LadyRadical.c0254b054ea68cb75cc2.ttf",
+    "static/media/1.png": "/static/media/1.5589866159cfbda09339.png",
+    "static/media/4.png": "/static/media/4.99c07bb5fe31c33048fc.png",
+    "static/media/3.png": "/static/media/3.01ee6a1b5b26e3912bae.png",
+    "static/media/2.png": "/static/media/2.db312a030941a47606e9.png",
+    "static/media/FooterLogo.png": "/static/media/FooterLogo.cecf51a1c84d7ae32d25.png",
+    "index.html": "/index.html",
+    "main.882bbccc.css.map": "/static/css/main.882bbccc.css.map",
+    "main.76a28e81.js.map": "/static/js/main.76a28e81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.882bbccc.css",
+    "static/js/main.76a28e81.js"
+  ]
+}
