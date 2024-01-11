@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff3682c5.css",
-    "main.js": "/static/js/main.4096fb50.js",
+    "main.css": "/static/css/main.5f6d1be0.css",
+    "main.js": "/static/js/main.bf53b246.js",
     "static/media/4.gif": "/static/media/4.db36fcc39cc49cd27388.gif",
     "static/media/Amanda.png": "/static/media/Amanda.22df9549a9cc11ac43fd.png",
     "static/media/6.gif": "/static/media/6.fa1ba8124665033b3533.gif",
@@ -16,6 +16,7 @@
     "static/media/Gintoki.png": "/static/media/Gintoki.0df21436f8b0ad574d50.png",
     "static/media/Tanjiro.png": "/static/media/Tanjiro.fb59de3bd01c801b8c83.png",
     "static/media/Luffy.png": "/static/media/Luffy.83fd8579d0a3dd460f11.png",
+    "static/media/LogoDark.png": "/static/media/LogoDark.d524a64b23e880222bcc.png",
     "static/media/Logo.png": "/static/media/Logo.49f9720b4c081a8f4069.png",
     "static/media/Gashapon.png": "/static/media/Gashapon.628db49a29fa135c3883.png",
     "static/media/LadyRadical.ttf": "/static/media/LadyRadical.c0254b054ea68cb75cc2.ttf",
@@ -25,11 +26,11 @@
     "static/media/2.png": "/static/media/2.db312a030941a47606e9.png",
     "static/media/FooterLogo.png": "/static/media/FooterLogo.cecf51a1c84d7ae32d25.png",
     "index.html": "/index.html",
-    "main.ff3682c5.css.map": "/static/css/main.ff3682c5.css.map",
-    "main.4096fb50.js.map": "/static/js/main.4096fb50.js.map"
+    "main.5f6d1be0.css.map": "/static/css/main.5f6d1be0.css.map",
+    "main.bf53b246.js.map": "/static/js/main.bf53b246.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff3682c5.css",
-    "static/js/main.4096fb50.js"
+    "static/css/main.5f6d1be0.css",
+    "static/js/main.bf53b246.js"
   ]
 }
